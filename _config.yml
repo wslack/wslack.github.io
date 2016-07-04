@@ -1,0 +1,28 @@
+
+# Site settings
+title: Melody Kramer
+description: "Civic Tech. Leadership. Music."
+baseurl: ""
+url: "https://wslack.github.io"
+timezone: "America/New_York"
+
+# Build settings
+markdown: kramdown
+
+# social
+twitter: wslack
+github: wslack
+
+
+defaults:
+  -
+    scope:
+      type: posts
+    values:
+      layout: post
+exclude:
+- deploy
+- Gemfile
+- Gemfile.lock
+
+permalink: /:year/:month/:day/:title

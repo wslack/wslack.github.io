@@ -1,0 +1,25 @@
+{
+  "name": "wslack.github.io",
+  "main": "index.html",
+  "version": "1.0",
+  "homepage": "http://wslack.github.io",
+  "authors": [
+    "Will Slack",
+    "Melody Kramer"
+  ],
+  "description": "The personal website of Will Slack. Built using Jekyll and GitHub Pages. See humans.txt for more infos.",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "node_modules",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.0",
+    "bootstrap": "~3.3.1"
+  },
+  "resolutions": {
+    "bootstrap": "~3.3.1"
+  }
+}
