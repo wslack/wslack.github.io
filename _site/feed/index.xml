@@ -12,11 +12,58 @@
     <title xml:lang="en"></title>
     <atom:link type="application/atom+xml" href="https://wslack.github.io/feed/" rel="self"/>
     <link>https://wslack.github.io</link>
-    <pubDate>Mon, 04 Jul 2016 18:18:38 -0400</pubDate>
-    <lastBuildDate>Mon, 04 Jul 2016 18:18:38 -0400</lastBuildDate>
+    <pubDate>Mon, 04 Jul 2016 20:12:48 -0400</pubDate>
+    <lastBuildDate>Mon, 04 Jul 2016 20:12:48 -0400</lastBuildDate>
    	<language>en-US</language>
     <description>Civic Tech. Leadership. Music.</description>
     <item>
+        <title>Rankings and Inputs</title>
+        <link>https://wslack.github.io/rankings-and-inputs/</link>
+        <pubDate>Sat, 12 Sep 2015 00:00:00 -0400</pubDate>
+        <dc:creator>Will Slack</dc:creator>
+        <category>Uncategorized</category>
+        <guid isPermaLink="false">/rankings-and-inputs</guid>
+        <description><![CDATA[ <p>I’ve <a href="http://ephblog.com/2009/08/19/on-rankings-and-choosing-to-attend-williams/">written</a> <a href="http://willslack.blogspot.com/2011/10/thoughts-on-value-of-higher-education.html">before</a> about higher ed data and ranking, and its worth revisiting that subject today on the heels of a <a href="https://collegescorecard.ed.gov/data/">large data release</a> by the Department of Education (along with <a href="https://collegescorecard.ed.gov/">a website</a> my wonderful colleagues in various government offices helped to create). I should also note that I am only speaking in my individual capacity. None of the words in this post represent the views of 18F, the General Services Administration, or the United States Government.</p>
+
+<p>Data releases are wonderful because they give true information about a topic, often replacing anecdotal evidence that depends more on who we know than the true state of a Thing. My thoughts on financial success after college depend partly on if I hung out with aspiring educators vs management consultants, for example. Hearing that one of your friends had a great experience at College X might lead you to recommend it, but there’s a chance that your friend’s experience was one of the rare positive ones. I am all for releasing data.</p>
+
+<p>However, in looking at data, we still need to apply context and analysis. Data depends on a varsity of factors, such as the group being examined or the method used to collect it. College ranking data is especially scary when used long-term because the selective colleges being examined have a lot of control, though their admissions and administrative processes, over some of the data inputs. For example, US News looks at the % of classes with under 20 students - and I’m not sure its a coincidence that some college cap certain classes at <a href="http://web.williams.edu/admin/registrar/catalog/depts0607/wi.html">exactly 19 students</a>.</p>
+
+<p>In a world without manipulation, the US News datapoint could be used to interpolate a bell curve of class sizes. Instead, I suspect that colleges work to shove as many classes as possible under that 19-person cap - meaning that a college with a mix of 10 person and 15 person classes ends up looking equivalent to a college full of 19 person classes, even though the 10 person experience is much more rewarding (in my anecdotal experience).</p>
+
+<p>The worst implication of using and relying on data like this is that the attributes that make a strong college cohort may end up producing data that looks “worse” than other cohorts - meaning that colleges that seek to do the best job possible have an incentive to manipulate their incoming classes to have stronger data.</p>
+
+<p>For example, a college that wants to produce graduates with higher incomes after 10 years might have an incentive to take more students interested in economics, technology, or engineering - disadvantaging those interested in other fields. Colleges interested in keeping a higher graduation rate might shy away from admitting anyone with mental health struggles or other risk factors that could lead them not to graduate - regardless of a college’s strength. Finally, colleges interested in reporting a high amount of average aid could seek more students who are extremely poor (who need more aid) and disadvantage those from middle class families that need a small amount of aid, but not much.</p>
+
+<p>That last paragraph describes the three primary data points used by the college scorecard. That doesn’t make the data that was used bad, but it does mean that we should pay attention to the incentives that we create in rating systems and how to actively counter act them. For example, colleges could get “credits” on their graduation rates by admitting more students with active risk factors, or by being able to report different data about why students don’t complete a degree. Average earning data should take into account the earnings of a student’s parents and seek to remove that variable, since a college is more important for the <strong>change</strong> it makes to a student.</p>
+
+<p>In the end, a college isn’t everything in a student’s future. We shouldn’t make schools own outcomes that depend on the students they choose to admit - instead we should look at how a college bends an incoming class’s future toward job satisfaction, strong connections with peers, impact towards social good, and ultimate life happiness. Is that data available, truly? I doubt it.</p>
+ ]]></description>
+    </item><item>
+        <title>Time-tracking and Trust</title>
+        <link>https://wslack.github.io/timetracking-and-trust/</link>
+        <pubDate>Sun, 30 Nov 2014 00:00:00 -0500</pubDate>
+        <dc:creator>Will Slack</dc:creator>
+        <category>Management</category>
+        <guid isPermaLink="false">/timetracking-and-trust</guid>
+        <description><![CDATA[ <p>There are a myriad of options out there for managing tasks and time management at the individual/personal level. David Allen’s “GTD” system is one used by my company, but there are dozens of websites with ideas. One of my favorite talks on the subject is by the “Last Lecture” YouTube star, <a href="https://www.youtube.com/watch?v=oTugjssqOT0">Randy Pausch</a>. It’s an interesting area, and one where I continue to iterate.</p>
+
+<p>The struggle I’ve had is in finding the appropriate balance between detail and efficiency when managing tasks owned by others. Let’s be clear here: we may not <a href="http://www.amazon.com/The-Minute-Manager-Meets-Monkey/dp/0688103804">have the monkey</a> with any of these tasks, but we do own the overall success of the project, and we are accountable when the task owner  misses a task or gets offtrack with a project. This is task management, executive-style.</p>
+
+<p>Let’s define some possible cases are the far end of each spectrum. On the one hand, we can manage the tasks of others as we manage our own tasks - for me, this means tracking individual tasks using lists with checkboxes, divided and sorted by subject matter. It’s also extremely time intensive and wasteful whenever a task happens on track: there’s a cost of my time in monitoring the task, my time in sending a “ping” of some form about it, their time in replying, and my time in checking the box off. <strong>This isn’t sustainable across the board.</strong></p>
+
+<p>On the other hand, we can check in at occasional (perhaps weekly) checkpoints on status and if work efforts are on track - relying more on the other person’s task tracking. This doesn’t take a lot of time, but it tends to stay at the project level (unless it’s a 1-2-1 planning meeting), and <strong>it’s not great at mitigating risk</strong>. Let’s dig into why:</p>
+
+<ul>
+  <li>Wastes time for the larger group if you get too detailed</li>
+  <li>Doesn’t allow easy opportunities to check-back on late tasks</li>
+  <li>Allows updates like “I didn’t get to this, will get to it today/tomorrow.</li>
+  <li>Doesn’t account for issues or tasks that the person might have forgotten.</li>
+</ul>
+
+<p>In my work as a project manager, I’ve found that we need a system that allows for a <strong>middle ground</strong> of the two approaches above, and can be <strong>dialed up or down</strong> depending on the urgency of the project and the past performance of the task owner. I’m still working on ideas about how to dial up and down seamlessly.</p>
+ ]]></description>
+    </item><item>
         <title>How To Write A Headline That Starts with the Word How</title>
         <link>https://wslack.github.io/how-to-write-a-headline-that-starts-with-the-word-how/</link>
         <pubDate>Tue, 04 Nov 2014 00:00:00 -0500</pubDate>
@@ -24,6 +71,161 @@
         <category>Uncategorized</category>
         <guid isPermaLink="false">/how-to-write-a-headline-that-starts-with-the-word-how</guid>
         <description><![CDATA[ <p>See above.</p>
+ ]]></description>
+    </item><item>
+        <title>Responding to Current Events</title>
+        <link>https://wslack.github.io/responding-to-current-events/</link>
+        <pubDate>Wed, 04 May 2011 00:00:00 -0400</pubDate>
+        <dc:creator>Will Slack</dc:creator>
+        <category>Honor</category>
+        <guid isPermaLink="false">/an-old-editorial</guid>
+        <description><![CDATA[ <p><em>This piece was originally published in the <a href="http://williamsrecord.com/2011/05/04/responding-to-current-events/">Williams Record</a> a few days after the death of Osama Bin Laden.</em></p>
+
+<p>I turned 13 on Sept. 11, 2001. Sunday evening, eight years to the day after George W. Bush’s “Mission Accomplished” speech, I ran home to Susie Hopkins after learning that the man chiefly responsible for that event had been killed in a firefight.</p>
+
+<p>We live, it is said, in a purple bubble here at Williams, isolated by mountains in every cardinal direction. Our lives are enabled and assisted through the efforts of hundreds of staff who provide us with security and services while we pursue our education. While the Internet has made true isolation less possible, we are sheltered here from hunger and the worst sort of injustices that have provoked the current Arab Spring.</p>
+
+<p>Nate Krisoff ’03 departed from this shelter and entered the United States Marine Corps. The plaque commemorating his life and death on Dec. 9, 2006, sits alone above one of the back doors of Thompson Chapel, dwarfed by the long lists of names from other wars in which Ephs took greater part. He was a co-captain of the swim team, known for his one-liners and the blue and white Adidas tracksuit top that he wore everywhere.</p>
+
+<p>After his death, his father, a surgeon, enlisted in the Naval Medical Corps to honor his son’s memory, serving a seven-month deployment at Camp Al Taqaddum, Iraq, among other places. I know of no other Ephs who followed Bill Krissoff’s example; Williams students are rarely found in today’s armed forces.</p>
+
+<p>We serve in the government, yes, and I have no doubt that many ’11s, ’12s, ’13s and ’14s will leave this valley to accomplish great feats, but many of us will remain within the security and comfort that the privilege of a Williams degree will help to provide. We will not be able to claim the words of Professor of Rhetoric Carroll Lewis Maxcy’s 1926 eulogy:</p>
+
+<blockquote>
+  <p>“And some, in answer to the call of country, have gone out to battle for the common rights of men against the enemy. Some of them will not return to me, for they have given all they had, and now they rest at the foot of a simple cross or lie deep below the waves. But even as they passed, the music of the chimes was in their ears and before their eyes were visions of the quiet walks beneath the elms.”</p>
+</blockquote>
+
+<p>I am not suggesting that Ephs commemorate Osama bin Laden’s death by enlisting in the armed forces; my own plans do not include military service, though I respect and honor my friends from home who made that choice. But I do suggest that we carry an extra obligation alongside our privilege: to serve not just the causes of wealth, power or fame, but to hold ourselves to a higher standard than that expected by society, the market or our peers.</p>
+
+<p>Loyalty, kindness, helpfulness and their peer traits won’t buy season tickets at a Yankees game, but they are the lynchpins of a successful society: One of the great hallmarks of Williams is that I can leave my laptop out and alone in a common room without fear (though there are notable exemptions: take care!) or that we can toss our jackets on the stairs during First Fridays without requiring a coat check system to ensure that we get our outerwear back. In dedicating ourselves to building the better America that Nate Krisoff sought to protect (or for international students, the causes of freedom and justice that he sought to defend), we can honor his memory and those of the many others that perished on my birthday. We can turn the celebration at this death into a more timely and long-lasting benevolence that will pay dividends down the road.</p>
+
+<p>Is this overly optimistic? Probably. I have no doubt that even on this campus, problems and struggles will continue for years to come. A Muslim chaplain will not solve all of the issues that Muslim students face, just as Campus Safety and Security can hardly prevent all thefts or sexual assaults from occurring. The United States will soon come down from its post-kill euphoria, just as the good-natured feelings of September 11 only persisted for about a month. Our task is to maintain those convictions, even when they are under the threat of convenience or malfeasance; there will often be no reward for doing the right thing, or even heavy costs like what Krissoff paid.</p>
+
+<p>But regardless, let this not be a week about fireworks, politics or the celebration of a terrorist’s death. Let this be the week that we can be reminded which causes are worth dying and sacrificing for. We will not always uphold these values perfectly, but there are angels to guide us on our way.</p>
+ ]]></description>
+    </item><item>
+        <title>The Bell of Hope</title>
+        <link>https://wslack.github.io/bell-of-hope/</link>
+        <pubDate>Fri, 10 Dec 2010 00:00:00 -0500</pubDate>
+        <dc:creator>Will Slack</dc:creator>
+        <category>Honor</category>
+        <guid isPermaLink="false">/bell-of-hope</guid>
+        <description><![CDATA[ <div style="text-align: center;">TO THE GREATER GLORY OF GOD</div>
+
+<div style="text-align: center;">AND A RECOGNITION OF </div>
+
+<div style="text-align: center;">THE ENDURING LINKS BETWEEN </div>
+
+<div style="text-align: center;">THE CITY OF LONDON</div>
+
+<div style="text-align: center;">AND</div>
+
+<div style="text-align: center;">THE CITY OF NEW YORK</div>
+
+<div style="text-align: center;">FORGED IN ADVERSITY - 11 SEPTEMBER 2001<br /><br /></div>
+
+<p>I visited Ground Zero for the first time today. Despite several trips to and through New York since a longer 5th grade sightseeing venture, I never got further south than the Lower East Side or the Port Authority.</p>
+
+<p>That changed today, when I had several free hours between my arrival from Williams and the flight to Atlanta (where I am writing this post while appreciating the irony that my flight has free wifi while the airport it departed from has no internet available at all.) But I digress: using my MetroCard, I took an A and then E train to the Wordl Trade Center Station, without map or expectation, and to my surprise, emerged across the street from Ground Zero (so named on the night of the events, the same day I turned 13. But that is a different story).</p>
+
+<p>I was a little shocked to come out of the station next to this aerial gap; while a tower is being constructed, one still gets the feeling that something larger used to fill this space; the scar is still present, if obscured by the fence and website advertising the memorial effort. But then I turned around, and to my surprise, saw a littel graveyard with people wandering around, and behind that, a little church.</p>
+
+<p>It was, I now know, St. Paul’s Chapel, and I faintly recalled the news stories about how volunteers and rescue workers found aid, shelter, and comfort within its untouched walls as they labored to shift through to toxic rubble (ahem, Zadroga Bill). So strange to see such old graves, such as a French her from the Revolutionary War, standing next to the place where the battles we fight today in Afghanistan began. I marveled and observed the old graves with curiosity, but short of a brief moment when I came out of the station, the area had no strong emotional effect on me.</p>
+
+<p>And then I saw the Bell, right outside the Chapel’s doors, and as I read the words inscribed (reprinted above), my eyes welled up and I felt something within me respond to the hope of the bell, and the tradition of ringing after each terrorist attack, be it in London, Madrid, or elsewhere, as a reminder of reconciliation even when bloodlusts are strongest.</p>
+
+<p>But what reached me ever more was a sudden realization that in reading the words on the bell, I wasn’t thinking about “cities,” but instead people. Cities are people - collections of people, just as colleges, towns, countries, fan clubs of sports teams, and every other organization is a ccollection of people that say “I am.”</p>
+
+<p>I am a Decaturite, and a Georgian. I am an Eph and a Bulldog. I am also an American, and while that allegiance resonated as I watched the bell, what struck me more was the kitchy phrase “citizen of the world.” For I recognized in that bell the connections I have with the City of New York and the people that compose it - those who lost parents or friends in the attack, and those who lived through the dire days of dust and death. I saw in that bell a window to the ties that bind all of us, even in the deepest tragedy when some reject those ties and give their lives to violence, and for the first time in months, I cried a bit. But not for fear, and not in mourning. Instead:</p>
+
+<p>Hope.</p>
+ ]]></description>
+    </item><item>
+        <title>College Rankings in Detail - Arbitrary Comparisons</title>
+        <link>https://wslack.github.io/college-rankings-in-detail/</link>
+        <pubDate>Tue, 10 Aug 2010 00:00:00 -0400</pubDate>
+        <dc:creator>Will Slack</dc:creator>
+        <category>Analysis</category>
+        <guid isPermaLink="false">/rankings-in-detail</guid>
+        <description><![CDATA[ <p>After a long day returning to the office from a fabulous Eph vacation, little could have warmed my heart more than the kind complement from <a href="http://shuffstuff.tumblr.com/post/972593388/the-atlantics-is-there-life-after-rankings">ShuffStuff @ Tumblr</a>, and hope that these musing manage to satisfy. I also wrote a shortened version of the below <a href="http://willslack.blogspot.com/2010/08/williams-is-1-but.html">a few days ago</a> when the Forbes rankings came out.</p>
+
+<p>Let’s start by taking a look at what <a href="http://www.usnews.com/articles/education/best-colleges/2010/08/17/why-us-news-ranks-colleges-and-universities.html">US News says about their rankings</a>:</p>
+
+<blockquote>
+  <ul>
+    <li>Do use the rankings as one tool to select and compare schools.</li>
+    <li>Don’t rely solely on rankings to choose a college.</li>
+    <li>Do use the search and sort capabilities of this site to learn more about schools. Visit schools, if possible.</li>
+    <li>Don’t wait until the last minute. College matters. Take your time, and choose carefully.</li>
+    <li>Do think long and hard about the right place for you.</li>
+  </ul>
+</blockquote>
+
+<p>The problem, of course, is that the text above is two clicks away from the <a href="http://colleges.usnews.rankingsandreviews.com/best-colleges">main rankings page</a>, which lacks any sort of guidance about how to use the rankings. Why? Because the entire point of the rankings is to be a <strong>big deal</strong>, which makes US News a <strong>big deal</strong>. I can’t think of a time that the magazine is in the news except for these annual rankings, which might be why Forbes just started its own rankings. Any sort of equivocation (a la “these rankings are part of balanced breakfast of high school counselors, visits, research, etc”) would only hurt the impact of the rankings.</p>
+
+<p>Because, let’s face it: they’re attractive. The world of higher ed is a heck of a lot easier to understand when you have a clear numerical order of every single US college. Far from adding any doubt, US News puts the top three in each category on a pedestal as if to say: these are the best places to get a good education because….. why? Let’s see (subpoint percentages are the fraction they represent of that subsection:</p>
+
+<ul>
+  <li>
+    <p><strong>Undergraduate academic reputation</strong> (22.5 percent of total ranking)</p>
+  </li>
+  <li>66% peer assessment (48% survey response rate)</li>
+  <li>
+    <p>33% high school counselor assessment (21% survey response rate)</p>
+  </li>
+  <li>
+    <p><strong>Graduation and Freshman retention</strong> (20 percent of total ranking)</p>
+  </li>
+  <li>80% 6-year graduation rate</li>
+  <li>
+    <p>20% freshman retention rate</p>
+  </li>
+  <li>
+    <p><strong>Faculty resources</strong> (20 percent of total ranking)</p>
+  </li>
+  <li>30% proportion of classes with fewer than 20 students </li>
+  <li>10% proportion with 50 or more students</li>
+  <li>30% Faculty salary (adjusted based on cost-of-living differences)</li>
+  <li>15% proportion of profs with highest degrees in their field</li>
+  <li>5% student-faculty ratio</li>
+  <li>
+    <p>5% proportion of faculty that are full-time</p>
+  </li>
+  <li>
+    <p><strong>Student selectivity</strong> (15 percent of total ranking)</p>
+  </li>
+  <li>50% entering classes SAT Math/Verbal &amp; ACT composite scores</li>
+  <li>40% proportion of students from top 10% of their high school (GPA)</li>
+  <li>
+    <p>10% acceptance rate</p>
+  </li>
+  <li>
+    <p><strong>Financial resources</strong> (10 percent of total ranking)</p>
+  </li>
+  <li>
+    <p>Spending per student on “instruction, research, student services, and related educational expenditures.”</p>
+  </li>
+  <li>
+    <p><strong>Graduation rate performance</strong> (7.5 percent of total ranking)</p>
+  </li>
+  <li>
+    <p>Performance of the class of 2003 relative to an “expected graduation rate” based on Pell Grants, SAT Scores, etc.</p>
+  </li>
+  <li>
+    <p><strong>Alumni giving rate</strong> (5 percent of total ranking)</p>
+  </li>
+  <li>Percentage of alums who gave to Williams two years</li>
+</ul>
+
+<p>The above isn’t quite as attractive as “Williams is the #1 college in the US,” is it? In fact, it makes damn little sense, if for no other reason than that all of these ranking tools <strong>are based on different variables.</strong> Even if test scores are 1.25 times as high school performance, how do you compare school A (with avg SAT of 1400 and 50% of frosh who were top-ten percent in high school) to school B (with avg SAT of 1350 and 60% frosh who were in top-ten percent in high school). You can’t!</p>
+
+<p>In order to do so, you have to state some sort of equivalency between them: that every 10 points in SAT is worth some percentage of high performing students in high school. How do you set this?  How do you compare differences in faculty salary (crudely adjusted on regional indexes that have little to do with the cost of living (COI) in a college town with percentage of classes with under 50 students?</p>
+
+<p>I see seven different and incomparable variables up there (reputation survey score, percentages, money, student-faculty ratio, SAT score, ACT score, “graduation rate performance.) These variables cannot be compared without making an “exchange ratio” (such as saying each 1% increase in graduation rate equals 50 points in the SAT). No such formula is dependable unless you use statistics to make a z-score that depends on the distribution of each of the variables, but this <em>incredibly unattractive</em> method is still arbitrary, albeit mathematically.</p>
+
+<p><u>So to sum up:</u> Arbitrary comparisons of unrelated variables are arbitrarily weighted within subcategories, which are then arbitrarily rated together to produce a composite score such as “100,” for Williams. And since Williams’s 100 is almost certianly based on a curve, that means that every other score is also curved according to a formula that isn’t disclosed.</p>
+
+<p>In short: These “attractive” rankings aren’t quite so nice looking when you strip them down.</p>
  ]]></description>
     </item>
 </channel>
