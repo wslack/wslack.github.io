@@ -25,6 +25,7 @@ These are my best guesses, meant to supplement advice that would apply to any jo
 ### Questions I suggest asking yourself:
 - Will I be working with aligned colleagues who I trust?
   - If not, what will be my support system?
+- Do I know how this work will be funded, and if that funding will be maintained?
 - How has it worked for others on this team who had a new idea or wanted to introduce a new practice?
 - How do I know I can trust my future manager? Have I talked to someone else who has worked for them?
 - What are the incentives of the team I'm joining and the boss I'll be working for? Will I enjoy work that serves their interests?
