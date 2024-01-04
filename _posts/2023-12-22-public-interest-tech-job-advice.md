@@ -5,9 +5,11 @@ layout: post
 permalink: /job-seeking-advice/
 ---
 
-The Public Interest Tech / Civic Tech / etc space is still growing and changing, with folks working across academia, local/state/federal gov, [foreign](https://gds.blog.gov.uk/about/) [governments](https://digital.canada.ca/), [government contracting](https://digitalservicescoalition.org/story/), philanthropy, and the non-profit space.
+Work in Public Interest Tech, Civic Tech, and similar areas is still growing and changing, with folks working across academia, local/state/federal government, [foreign](https://gds.blog.gov.uk/about/) [governments](https://digital.canada.ca/), [government contracting](https://digitalservicescoalition.org/story/), philanthropy, and the non-profit space.
 
-As far as I can see, we don't have easy guidance for people trying to evlauate a new opportunity in this space, especially for more junior folks without a developed network, or people trying to break in, especially those who developed skills in the private sector and now seek more mission oriented work after reading [A Civic Technologist’s Practice Guide](https://cydharrell.com/book/) or [Recoding America](https://www.recodingamerica.us/). Jacob Kaplan-Moss has [advice](https://jacobian.org/2020/sep/14/measuring-hiring-manager-effectiveness/) for [hiring](https://jacobian.org/2021/mar/11/hours-to-hire/) [managers](https://jacobian.org/2022/aug/12/interview-notes/) and Chris Kuang has a great guide on [breaking into civic tech](https://www.chriskuang.com/civictech) that lists various places to look - but how do you know if an opportunity is a good fit? What are red and green flags particular to this space?
+As far as I can see, we don't have easy guidance for people trying to evalauate a new opportunity in this space, especially for more junior folks without a developed network, or people trying to break in -- especially those who developed skills in the private sector and now seek more mission oriented work after reading [A Civic Technologist’s Practice Guide](https://cydharrell.com/book/) or [Recoding America](https://www.recodingamerica.us/). 
+
+Jacob Kaplan-Moss has [advice](https://jacobian.org/2020/sep/14/measuring-hiring-manager-effectiveness/) for [hiring](https://jacobian.org/2021/mar/11/hours-to-hire/) [managers](https://jacobian.org/2022/aug/12/interview-notes/) and Chris Kuang has a great guide on [breaking into civic tech](https://www.chriskuang.com/civictech) that lists various places to look - but how do you know if an opportunity is a good fit? What are red and green flags particular to this space?
 
 These are my best guesses, meant to supplement advice that would apply to any job-seeking situation.
 
@@ -21,7 +23,7 @@ These are my best guesses, meant to supplement advice that would apply to any jo
 ### Questions I suggest asking the possible job:
 - What does it look like in six months if you make a successful hire for this role? What outcomes are you hoping for?
 - Of my skillset, where do you see me reinforcing where the team is already strong, and where do you see my skills filling a gap on the team?
-- Let's say you and I identify a possibly deeply impactful project I might do, but there's no straightforward way to fund/support it in the org today. What would the process be like to get support for that?
+- Let's say you and I identify a possibly deeply impactful project I might do, but there's no straightforward way to fund or support it in the org today. What would the process be like to get support for that?
   - May not apply to everyone's situation.
 
 ### Questions I suggest asking yourself:
