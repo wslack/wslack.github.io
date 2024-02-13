@@ -15,7 +15,7 @@ description:
 	</div>
 	<div itemscope itemtype="http://data-vocabulary.org/Person" class="col-sm-8">
 	<p class="lead" markdown="1">Hi, I'm <span itemprop="name">Will</span>. I love helping people.</p>
-	<p>I am currently serving a term appointment at <a href="https://usds.gov/">USDS</a>, a startup within the U.S. government that partners leading technologists with dedicated public servants to improve the usability and reliability of our government's most important digital services.</p>
+	<p>I recently served a term appointment at <a href="https://usds.gov/">USDS</a>, a startup within the U.S. government that partners leading technologists with dedicated public servants to improve the usability and reliability of our government's most important digital services. After a break, I will continue in a different government term role.</p>
 	<p>For a sense of what I'm reading, check <a href="https://twitter.com/wslack">Twitter</a> and <a href="https://slackfeed.blogspot.com">my links blog</a>.</p>
 
 	<p>Outside of work, I spend a lot of time singing, reading, and ideating on how technology will impact our lives in the future.</p>
