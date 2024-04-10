@@ -1,8 +1,8 @@
 ---
-title: Public Interest Tech Job Seeking Advice
+title: Public Interest Tech Job Vetting Advice
 author:
 layout: post
-permalink: /job-seeking-advice/
+permalink: /job-vetting-advice/
 ---
 
 Work in Public Interest Tech, Civic Tech, and similar areas is still growing and changing, with folks working across academia, local/state/federal American government, [non-US](https://gds.blog.gov.uk/about/) [governments](https://digital.canada.ca/), [contracting](https://digitalservicescoalition.org/story/), philanthropy, and the non-profit space.
@@ -14,9 +14,9 @@ Chris Kuang has a great guide on [breaking into civic tech](https://www.chriskua
 These are my best guesses, meant to supplement [existing](https://github.com/tBaxter/questions-for-employers) [resources](https://jacobian.org/2019/apr/23/questions-for-employers-director-vp/) for any job-seeking situation.
 
 ### Keep in mind:
-- Being mission-oriented does not make an organization a good place to work or a boss, a good person to work for. Evaluate that separately.
 - Saying the right missions-oriented buzzwords doesn't make an org actually mission-oriented. 
-- Working alone to bring reform or new ideas is much, much more challenging than being part of an aligned team. It's possible, but be aware of the challenge.
+- Being mission-oriented does not mean an organization is a good place to work or a boss is a good person to work for. Evaluate those separately.
+- Working alone to bring reform or new ideas is much, much more challenging than being part of an aligned team. It's possible, but be aware of the challenge and talk to someone who tried to go at it alone.
 - The manager who hires you and the team you join may have different expectations about what sort of change/transformation is possible from your work. It can be helpful to talk with someone on the team in addition to a possible manager.
 - Your best time to negotiate is before taking the job.
 - Serving and producing good outcomes for the public may not lead to rewards on the job, unless an organization measures public outcomes when evaluating your performance. Oftentime, serving the public helps you only if it gets good press or you develop a good reputation (because you do a good job communicating internally about the impact of your work).
@@ -26,7 +26,7 @@ These are my best guesses, meant to supplement [existing](https://github.com/tBa
 - How do you measure the impact of the organization's work for your users/customers (or on the public)?
 - Where do you see my skills reinforcing areas where the team is strong, and where do you see my skills filling a gap on the team?
 - Let's say you and I identify a possibly deeply impactful project I might do, but there's no straightforward way to fund or support it in the org today. What would the process be like to get support for that?
-  - Ask this if you want room for the job to explore your own work.
+  - Ask this if you want room for the job to explore/create your own work.
 - What has happened in the past if someone on the team is concerned about the impact of a decision on your users/the public?
   - Ask this if you think you might be asking this sort of question - this especially applies with a contractor.
 
