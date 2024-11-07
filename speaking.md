@@ -12,7 +12,7 @@ description: Speaking engagements.
 
 <br>
 
-I love giving talks about working in public, the civic tech space, better technical practices in running government systems, and better hiring practices in the public sphere. I routinely give talks, appear on panels, and speak to conferences, and have guested in classes for Georgetown, LBJ School of Public Affairs and Williams College.
+I love giving talks about working in public, the civic tech space, better technical practices in running government systems, and better hiring practices in the public sphere. I routinely give talks, appear on panels, and speak to conferences, and have guested for classes at Georgetown, George Mason, the LBJ School of Public Affairs and Williams College.
 
 Below are a few recent talks I've given. If you'd like to have me speak or run a workshop, please [contact me](/contact).
 
